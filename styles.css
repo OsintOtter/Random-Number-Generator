@@ -1,0 +1,22 @@
+
+#numbGen {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.codeGenerator {
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.Btns {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+
+}
